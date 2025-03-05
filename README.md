@@ -3,7 +3,7 @@
 A simple and interactive task list management application built with PHP and Tailwind CSS. This web-based application allows users to create task lists, add tasks, delete tasks, and clear all lists. It provides a clean and user-friendly interface for managing tasks.
 
 # Home OverView
-<img src="images/index.png" alt="index-page" width="500" height="300">
+<img src="index.png" alt="index-page" width="500" height="300">
 
 
 # Add Task List
