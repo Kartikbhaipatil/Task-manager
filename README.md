@@ -7,19 +7,19 @@ A simple and interactive task list management application built with PHP and Tai
 
 
 # Add Task List
-<img src="images/add_task_list.png" alt="index-page" width="500" height="300">
+<img src="add_task_list.png" alt="index-page" width="500" height="300">
 
 # View Task List
-<img src="images/view-task-list.png" alt="index-page" width="500" height="300">
+<img src="view-task-list.png" alt="index-page" width="500" height="300">
 
 # Blank Task
-<img src="images/blanck-task.png" alt="index-page" width="500" height="300">
+<img src="blanck-task.png" alt="index-page" width="500" height="300">
 
 # Add Task
 <img src="images/add-task.png" alt="index-page" width="500" height="300">
 
 # Clear or Delete Task
-<img src="images/clear-all-lists.png" alt="index-page" width="500" height="300">
+<img src="clear-all-lists.png" alt="index-page" width="500" height="300">
 
 ## Features
 
